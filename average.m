@@ -1,3 +1,4 @@
+% average.m
 cd 'O:\Optogenetics_AGSL\Animal_1';
 xx=dir('EPhys*.mat');
 nfiles= length(xx);
